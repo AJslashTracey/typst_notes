@@ -1,0 +1,11 @@
+{
+  // Tinymist Typst LSP settings
+  "tinymist.exportPdf": "onSave",
+  "tinymist.formatterMode": "typstyle",
+
+  // Associate .typ files with Typst
+  "[typst]": {
+    "editor.formatOnSave": true,
+    "editor.suggest.showSnippets": true
+  }
+}
