@@ -58,6 +58,7 @@ Aus dieser Formel können wir heraus interpretieren wann $arrow(F_L) = 0$\
 Wenn $phi = 0°$ oder $phi = 180°$ dann ist $arrow(F_L) = 0$
 \
 \
+#pagebreak()
 
 _Kraft auf einen Stromführenden Leiter:_
 \
@@ -67,4 +68,40 @@ _Kraft auf einen Stromführenden Leiter:_
 $
   F_L = I * s * B * sin(phi) \
 $
+\
+$I$ = Stromstärke \
+$s$ = Länge des Leiters \
+$B$ = Magnetische Flussdichte \
+$phi$ = Winkel zwischen Leiter und Magnetfeld
+
+Beispiel Rechnung \
+$alpha$-Teilchen in einen homogenes Magnetfeld $0.05T$ mit einer Geschwindigkeit von $450 m/s$ \
+#align(center)[
+  $abs(Q) = 2 * e = 2* 1.6 * 10^(-19) C$  \
+  \
+  $F_L = abs(Q) * v * B = 2* 1.6 * 10^(-19) C * 450 m/s * 0.05 T = 7.2 * 10^(-18) N = 7.2 * 10^(-18) N$  \
+]
+
+
+
+Energiesatz \
+#align(center)[
+  Elektrische Energie = Magnetische Energie
+  \
+
+  Elektrische Energie = $U * abs(Q)$ \
+  Magnetische Energie = $(m * v^2) / 2$ \
+  \
+  \
+  Woraus wir den Energiesatz: \
+  \
+  $U * abs(Q) = (m * v^2) / 2$ \
+  \
+  \
+  Bilden können: \
+]
+
+
+
+
 
