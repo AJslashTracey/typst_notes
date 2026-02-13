@@ -67,7 +67,7 @@ Beispiel Rechnung:
 Wellenlänge einer Person welche $80$ kg schwer ist und mit $2$ $(k m)/h$ läuft:
 
 
-
+#pagebreak()
 
 Energie Erhaltungssatz:
 
@@ -77,10 +77,16 @@ Energie Erhaltungssatz:
   \
   \
   $u * abs(Q) = (m * v^2) / 2$ $= p^2 / (2 * m_e)$
+
   \
   \
   \
   $lambda = h / (sqrt(2 * m_e * u * e))$
+  \
+  \
+  \
+  $lambda ≈ 1 /(sqrt(u))$
+
 ]
 
 $u$ = Spannung \
@@ -91,5 +97,18 @@ $p$ = Impuls \
 $m_e$ = Masse des Elektrons \
 
 
+Bragg-Bedingung
+#align(center)[
+  $n * lambda = 2 * d * sin(theta)$
+]
 
+$n$ = Beugungsordnung \
+$lambda$ = Wellenlänge \
+$d$ = Gitterkonstante \
+$theta$ = Winkel \
 
+Konstruktive Interferenz
+
+#align(center)[
+  $v_n = sin^-1 (n * lambda) / (2 * d)$
+]
