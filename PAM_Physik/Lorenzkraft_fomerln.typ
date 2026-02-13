@@ -99,6 +99,30 @@ Energiesatz \
   \
   \
   Bilden können: \
+
+
+
+
+
+]
+
+\
+\
+\
+\
+\
+\
+\
+
+Eingefangenes Bakterium
+
+
+
+#align(center)[
+
+  $E_1 = (h^2 * lambda^2) / (8 * m * l^2)$ $-> (6.63 * 10^(-34) J * s/ (8.93 * 10^(-31) k g * (10^(-9) m)^2) = 9.36 * 10^(-20) J$
+
+
 ]
 
 
