@@ -192,7 +192,6 @@ Elektron in einem unendlichen Potentialtopf
 
 
 
-\
 
 
 
