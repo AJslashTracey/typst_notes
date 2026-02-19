@@ -192,6 +192,43 @@ Elektron in einem unendlichen Potentialtopf
 
 
 
+\
+\
+\
+\
+\
+\
+\
+\
 
+#pagebreak()
+Hausaufgabe 13.02.2026 \
+
+Ein Bakterium der Masse $10 * 10^(-12) k g$ ist zwischen zwei wänden mit einem Abstand von $0.1 m m$ gefangen.
+
+
+\
+\
+a) Minimale Geschwindigkeit des Bakteriums
+\
+\
+Für die Aufgabe $A$ können wir mit der Energieerhaltung lösen: $E_(upright("kin")) = E_N$
+Wobei $E_N$ die potentielle Energie des Bakteriums ist. Diese ist gegeben durch die folgende Formel:
+
+#align(center)[
+  $E_N = (h^2 * n^2)/(8 * m * l^2)$
+  \
+  \
+  $-> E_N = E_(upright("kin"))$
+  \
+  \
+  $E_1 = (m * v^2)/(2)$
+
+  Nach $v$ auflösen:
+  #align(center)[
+    $v = sqrt((2 * E_1) / m)$
+  ]
+
+]
 
 
