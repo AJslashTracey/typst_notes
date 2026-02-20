@@ -231,4 +231,49 @@ Wobei $E_N$ die potentielle Energie des Bakteriums ist. Diese ist gegeben durch 
 
 ]
 
+\
+\
+\
+\
+b) Abschätzung der  Quantenzahl, wenn $v$ = $10^(-5) m/s$
+\
+\
+\
+#align(center)[
+  Wider mit Energiererhaltung kann man diese Aufgabe lösen.
+  \
+  \
+  \
+  \
+  \
+  Mit $E_(upright("kin")) = E_n$ nach $n$ auflösen:\
+  Formel für Energie im Potentialtopf:\
+  \
+  $E_n = (h^2 * n^2)/(8 * m * l^2)$\
 
+  \  Mit $E_(upright("kin")) = E_n$ nach $n$ auflösen:\
+  \
+  $E_(upright("kin"))$ = $(m * v^2)/(2) = (h^2 * n^2)/(8 * m * l^2)$ = $E_n$
+
+
+]
+
+\
+\
+\
+\
+\
+\
+\
+a) Die drei niedrigsten Energieniveaus für ein Elektron im Potentialtopf mit einer Länge von $10^(-10) m$ werden folgendermassen berechnet:
+
+#align(center)[
+  $E_1 = (planck^2)/(8 * m * l^2)$ = $(6,63 * 10^(-34) J * s)^2 / (8 * 9,11 * 10^(-31) k g * (10^(-10) m)^2)$ = $6,02 * 10^(-39) J$ \
+  \
+  \
+  $E_2 = E_1 * 2^2$ = $24,08 * 10^(-39) J$ \
+  \
+  \
+  $E_3 = E_1 * 3^2$ = $18,06 * 10^(-39) J$ \
+
+]
