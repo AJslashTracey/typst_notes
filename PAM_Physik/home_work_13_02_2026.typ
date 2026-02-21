@@ -276,4 +276,59 @@ a) Die drei niedrigsten Energieniveaus für ein Elektron im Potentialtopf mit ei
   \
   $E_3 = E_1 * 3^2$ = $18,06 * 10^(-39) J$ \
 
+
+]
+
+
+
+
+
+\
+\
+\
+Formel Zusammenfassung:
+#align(center)[
+
+
+$E_n = (h^2)/(8 * m *l^2) * n^2$
+\
+\
+\
+$E_1 = (h^2)/(8 * m * l^2)$
+\
+\
+\
+$E_n = E 1 * n^2$
+
+]
+
+Bemerkung: $E_1$ wird als Nullpunktsenergie bezeichnet. Aus diesem Resultat ziehen wir die Erkenntnis, dass sich die Teilchen im Kasten nach der Quantenmechanik auch im Fall der absoluten Nulltemperatur ($O K$) niemals in Ruhe befinden, sondern die Nullpunktsenergie besitzen.
+
+
+\
+\
+\
+Potentialtopf Model Erklärung:
+\
+\
+Im inneren des Kasten gilt:
+#align(center)[
+$V(x) = 0$
+\
+\
+\
+Klassisch und Quantenmechanik:
+\
+
+\ 
+$E = E_(upright("kin")) + E_(upright("pot")) = E_(upright("kin"))$
+\
+\
+$-> E_(upright("pot")) = 0$ 
+]
+
+
+Im unendlichen Potentialtopf ist die Energie rein kintetisch und ergibt sich aus dem quantisierten Impuls: \
+#align(center)[
+  $E_n = (p^2_n)/(2 m)$
 ]
