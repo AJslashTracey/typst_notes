@@ -332,3 +332,19 @@ Im unendlichen Potentialtopf ist die Energie rein kintetisch und ergibt sich aus
 #align(center)[
   $E_n = (p^2_n)/(2 m)$
 ]
+
+
+
+
+#align(center)[
+  $m * r_n * arrow(v) = n * (h)/(2 * pi)$
+\
+\
+\
+Luca is lowkey a niga who can't use his Computer
+
+
+
+
+
+]
