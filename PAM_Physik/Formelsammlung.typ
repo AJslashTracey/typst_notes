@@ -41,6 +41,22 @@ $I = (B dot 2 dot pi dot r)/(mu_0)$
 ]
 
 
+#text(size: 16pt, weight: "bold")[Formelsammlung Ampersches Durchflutungsgesetzt]\
+\
+\
+Magnetfeld eines gerade Leiters, der einen Strom führt:
+#align(center)[
+$B(r) = (mu_0)/(2 dot pi dot r)$
+\
+\
+\
+Vectorform der Formel:
+\
+\
+$Sigma arrow(B) dot Delta arrow(s) = mu_0 * I $
+]
+
+
 
 /* 
 Aggarta Taylor Jew Polynom Series calculation:
