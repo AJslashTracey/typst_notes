@@ -55,7 +55,38 @@ Vectorform der Formel:
 \
 $Sigma arrow(B) dot Delta arrow(s) = mu_0 * I $
 ]
+\
+\
+\
+Ampersches Durchflutungsgesetzt:
+\
+\
+$ integral arrow(B) dot d arrow(s) = mu_0 dot I $
+\
+#pagebreak()
+Spule mit Integrationsweg: \
+\
 
+
+$ B approx (mu_0 dot N dot I)/(l) $
+
+$N$ = Anzahl der Windungen \
+$I$ = Stromstärke \
+$l$ = Länge der Spule \
+$mu_0$ = Permeabilität des Vakuums \
+
+
+genauere Formel für Spule:
+$ B = (mu_0 dot N dot I)/sqrt((2 r)^2 + l^2) $
+
+
+Stromdichte:
+
+$ J = I/(pi c^2 - pi b^2) $
+$J$ = Stromdichte \
+$I$ = Stromstärke \
+$c$ = Innenradius \
+$b$ = Außenradius \
 
 
 /* 
@@ -64,4 +95,5 @@ Aggarta Taylor Jew Polynom Series calculation:
 $f(x) = f(a)-f'(a)(x -a) + (f''(a))/(2 !) (x - a)^2 + (f'''(a))/(3 !) (x - a)^3 + .... + (f^((n)) * (a))/(n !) ( x - a )^n$
 
 ]
+
  */
