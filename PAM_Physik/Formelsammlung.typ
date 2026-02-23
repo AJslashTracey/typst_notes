@@ -89,11 +89,48 @@ $c$ = Innenradius \
 $b$ = Außenradius \
 
 
-/* 
+Die Zylindersupe speicher Energie. Gleich wie der Kondensator die Energie im zwischen zwei Elektroden auftreten. konzentriert elektrische Feld zusammenfasst, gibt es auch eine geometrische Anordnung eines stromführenden Leiters der ein Homogenes konzentriertes Magnetfeld erzeugt: die Zylinderspule. 
+\
+\
+Die Energiedichte, der ind er Spule gespeicherten Energie lässt sich auf über das Feld ausdrücken:
+
+\
+\
+$ "Energiedichte" = ("Energie")/("Volumen") $
+\
+\
+$ 
+frac(W, V)
+=
+underbrace(
+  frac(B^2, 2 mu_0 mu_r),
+  "magnetische Energiedichte"
+)
++
+underbrace(
+  frac(epsilon_0 epsilon_r E^2, 2),
+  "elektrische Energiedichte"
+)
+$
+\
+\
+$"Energiedichte" = W/V$
+\
+$W$ = Energie $V$ = Volumen 
+\ 
+\
+#pagebreak()
+Da wir jetzt aber Energie im Feld wissen wollen, können wir einfach :
+\
+\
+$ W = V dot (B^2)/(2 mu_0) $
+
+\
+\
+\
 Aggarta Taylor Jew Polynom Series calculation:
 #align(center)[
 $f(x) = f(a)-f'(a)(x -a) + (f''(a))/(2 !) (x - a)^2 + (f'''(a))/(3 !) (x - a)^3 + .... + (f^((n)) * (a))/(n !) ( x - a )^n$
 
 ]
 
- */
