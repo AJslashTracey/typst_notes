@@ -150,7 +150,49 @@ Enthält nur den Winkel zwischen $arrow(v)$ und $arrow(B) = alpha$
 
 Die Skalarform lässt sich aus der Vektorform ableiten: $ abs(arrow(v) crossmark arrow(B)) = v B sin(alpha) $
 \
-Gibt ein paar Sonderfälle: $ alpha = 0 arrow arrow(F_l) = 0 $ $ alpha = 90° arrow arrow(F_l) = abs(q) v B "(maximal)" $ 
+Gibt ein paar Sonderfälle: $ alpha = 0° or 180° arrow arrow(F_l) = 0 $ $ alpha = 90° arrow arrow(F_l) = abs(q) v B "(maximal)" $ 
+
+\
+Kraft auf einen Stromführenden Leiter: $ arrow(F_l) = I dot s dot B dot sin(alpha) $
+$I$: Stromstärke\
+$B$: Magnetfeld Stärke\
+$Alpha$: Winkel zwischen Magnetfeld und dem Leiter\
 
 
+
+Beispiel Aufgabe: \
+Berechne $arrow(F_l)$ auf ein $alpha "-Teilchen"$, dass sich in einem homogenen Magnetfeld $0.05 T$  und $v$ von $450 m/s$ "wobei" $arrow(v) perp "Feldlinien"$ bewegt 
+\
+Laddung $arrow alpha "-Teilchen"$: Zwei Protonen und zwei Neutronen
+\
+\
+
+$ abs(Q) = 2 dot e space = 2 dot 2.16 dot 10^(-19) $ \
+$e$: Elementarladung
+\
+
+$ arrow(F_l) = abs(q) dot v dot B dot sin(90°) $ $ => 3.2 dot 10^(-19) C dot 4590 m/s dot 0.05 T dot sin(90°) $
+
+Kreisbewegung verursacht duch die Lorenzkraft:
+$ arrow(F_l) = q arrow(v) crossmark arrow(B) $
+$ arrow(F_l) perp arrow(v) $
+
+Kraft steht immer senkrecht zur momentanen Bewegungsrichtung => sie ändert nur die Richtung, nicht $abs(arrow(v))$ = Konstant
+Nur wenn $abs(arrow(v))$ = Konstant\
+
+\
+Energie Erhlatung: $ abs(q) U = 1/2 m v^2 $
+$ => v = sqrt((2 abs(q) U)/(m)) space (10% space c) $
+\
+Kreisbewegung Zentipetalkraft: $ F_Z = (m v^2)/r $
+
+Kreisbahn = Lorenzkraft: $ (m v^2)/r = abs(q) v B $
+
+Radius der Kreisbahn: $ r = (m v)/(abs(q) B) $
+
+Magnetfeld stärke mit $r$: $ B = (m v)/(abs(q) r) $
+
+
+Frequenz mit $B$ und $abs(Q)$: $ f = 1/T = (abs(Q) dot B)/(2 pi dot m) $
+Kreisfrequenz $omega$: $ space omega = 2 pi f = (abs(Q) dot B)/(m) $ 
 
