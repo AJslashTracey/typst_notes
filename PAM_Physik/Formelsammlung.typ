@@ -5,6 +5,12 @@
 
 #text(size: 12pt, weight: "bold")[Basic Formeln]
 
+// #align(center)[
+// $f(x) = f(a)-f'(a)(x -a) + (f''(a))/(2 !) (x - a)^2 + (f'''(a))/(3 !) (x - a)^3 + .... + (f^((n)) * (a))/(n !) ( x - a )^n$
+//
+// ]
+//
+
 
 
 //
@@ -112,25 +118,39 @@ underbrace(
   "elektrische Energiedichte"
 )
 $
-\
+
 \
 $"Energiedichte" = W/V$
-\
+
 $W$ = Energie $V$ = Volumen 
-\ 
-\
-#pagebreak()
+ 
+
 Da wir jetzt aber Energie im Feld wissen wollen, können wir einfach :
-\
-\
+
 $ W = V dot (B^2)/(2 mu_0) $
 
-\
-\
-\
-Aggarta Taylor Jew Polynom Series calculation:
-#align(center)[
-$f(x) = f(a)-f'(a)(x -a) + (f''(a))/(2 !) (x - a)^2 + (f'''(a))/(3 !) (x - a)^3 + .... + (f^((n)) * (a))/(n !) ( x - a )^n$
 
-]
+Wichtig zu beachten: $V = pi r^2 l$ $->$ aus diser Formel können wir Radius $r$ deuten von $A$ oder $l$
+
+
+
+
+#text(size: 16pt, weight: "bold")[Formelsammlung Lorenzkraft]
+\
+\
+Die Lorenzkraft ist die Kraft, die ein Magnetfeld auf bewegte elektrische Ladungen oder stromflüsse ausübt.
+\
+Auf ein Positiv geladenes teilchen mit der ladung q, dass sich mit einer Gewschindigkeitkeit $arrow(v)$ bewegt wirkt die Lorenzkraft $arrow(F)$
+\
+$ arrow(F_l) = Q dot arrow(v) crossmark arrow(B) $
+Das Kreuzprodukt hier erzwingt  $ arrow space space arrow(F_l) perp arrow(v)$ and $arrow(F_l) perp arrow(B)$
+
+Die Skalarform der Formel: $ arrow(F_l) = abs(Q) dot B dot sin(alpha) $
+Enthält nur den Winkel zwischen $arrow(v)$ und $arrow(B) = alpha$
+
+Die Skalarform lässt sich aus der Vektorform ableiten: $ abs(arrow(v) crossmark arrow(B)) = v B sin(alpha) $
+\
+Gibt ein paar Sonderfälle: $ alpha = 0 arrow arrow(F_l) = 0 $ $ alpha = 90° arrow arrow(F_l) = abs(q) v B "(maximal)" $ 
+
+
 
