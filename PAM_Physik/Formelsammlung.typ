@@ -196,3 +196,17 @@ Magnetfeld stärke mit $r$: $ B = (m v)/(abs(q) r) $
 Frequenz mit $B$ und $abs(Q)$: $ f = 1/T = (abs(Q) dot B)/(2 pi dot m) $
 Kreisfrequenz $omega$: $ space omega = 2 pi f = (abs(Q) dot B)/(m) $ 
 
+
+
+#text(size: 16pt, weight: "bold")[Formelsammlung Physik Induktionsgesetz]
+
+Magnetische Flussdichte = $"magnetischer Fluss" / "Fläche"$ 
+\
+\
+Farday'sche Induktionsgesetz: $ U_("ind") = - dv(Phi, t) = (Delta Phi)/(Delta t) $
+
+Wenn der Stromkreis $N$ dicht beiander liegende Schleifen enthält, benutzen wir folgende Formel: $ U_("ind") = -N dot dv(Phi, t) approx -N dot (Delta Phi)/(Delta t) $
+\
+
+Eine Spannung wird nur induziert, wenn sich der Fluss ändert. Da der Magnetische Fluss als: $ Phi = integral integral arrow(B) dot d arrow(A) underbrace(=, "Homogenes Feld") B perp dot A = B dot A dot cos(theta) $
+
