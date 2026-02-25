@@ -5,6 +5,18 @@
 
 #text(size: 12pt, weight: "bold")[Basic Formeln]
 
+
+
+
+\
+#text(size: 16pt, weight: "bold")[Formelsammlung Physik Elektrische Feld]
+Betrag der Elektrischen Feldstärke eine Punktladung: $ abs(E) = 1/(4 pi dot Epsilon_0 dot epsilon_r) dot Q/(r^2) $
+$Epsilon_0$ = Naturkonstante\
+$Epsilon_r$ = Matrialabhängige Konstante\
+Weil $1/(r^2)$ nimmt das Feld Starkabnimmt\
+Kraft welche dur das Feld ausgführt wird: 
+$ F = E_1 dot Q_2
+
 // #align(center)[
 // $f(x) = f(a)-f'(a)(x -a) + (f''(a))/(2 !) (x - a)^2 + (f'''(a))/(3 !) (x - a)^3 + .... + (f^((n)) * (a))/(n !) ( x - a )^n$
 //
@@ -215,7 +227,7 @@ Eine Spannung wird nur induziert, wenn sich der Fluss ändert. Da der Magnetisch
 \
 \
 
-Beispiel: $space space B = 0.006 T = "konst" Theta=0° = "konst" A(t)=0.0004m^2 dot e^(-(t)/(2 s))$
+_Beispiel_: $space space B = 0.006 T = "konst" Theta=0° = "konst" A(t)=0.0004m^2 dot e^(-(t)/(2 s))$
 \
 Nur $A(t)$ ist nicht konstant heisst die einzige Funktion welche wir ableiten müssen: $ dv(0.0004 m^2 dot e^(-(-(t)/(2 s))), t) $
 $ arrow dot(A) (t) "kettenregel" => dot(d)(t) = -(1)/(2 s) "die Ableitung dieser Funktion ist jetzt einfach:" e^(g(t)) dot dot(g)(t)$
