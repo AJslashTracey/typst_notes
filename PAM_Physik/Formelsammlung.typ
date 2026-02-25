@@ -204,9 +204,22 @@ Magnetische Flussdichte = $"magnetischer Fluss" / "Fläche"$
 \
 \
 Farday'sche Induktionsgesetz: $ U_("ind") = - dv(Phi, t) = (Delta Phi)/(Delta t) $
+\
+Die induzierte Spannung hängt von der zeitlichen änderung des magnetischen Flusses ab.\
 
 Wenn der Stromkreis $N$ dicht beiander liegende Schleifen enthält, benutzen wir folgende Formel: $ U_("ind") = -N dot dv(Phi, t) approx -N dot (Delta Phi)/(Delta t) $
+\Grundformel: #align(center)[$U_("ind") = -N dv(,t)(B A cos theta) $ ]
 \
 
 Eine Spannung wird nur induziert, wenn sich der Fluss ändert. Da der Magnetische Fluss als: $ Phi = integral integral arrow(B) dot d arrow(A) underbrace(=, "Homogenes Feld") B perp dot A = B dot A dot cos(theta) $
+\
+\
+
+Beispiel: $space space B = 0.006 T = "konst" Theta=0° = "konst" A(t)=0.0004m^2 dot e^(-(t)/(2 s))$
+\
+Nur $A(t)$ ist nicht konstant heisst die einzige Funktion welche wir ableiten müssen: $ dv(0.0004 m^2 dot e^(-(-(t)/(2 s))), t) $
+$ arrow dot(A) (t) "kettenregel" => dot(d)(t) = -(1)/(2 s) "die Ableitung dieser Funktion ist jetzt einfach:" e^(g(t)) dot dot(g)(t)$
+$ => 0.0004 m^2 e^(-(t)/(2 s)) dot -(1/(2 s)) => 0.0004 = "konst" => e^(-(t)/(2 s)) dot -(1/(2 s)) $
+$ -0.0002 (m^2)/(s) e^(-(t)/(2 s)) $
+
 
