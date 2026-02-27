@@ -1,1 +1,1 @@
-### Random Notes for the Matrix School System
+Random Notes for the Matrix School System

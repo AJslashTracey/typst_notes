@@ -13,10 +13,12 @@
 Betrag der Elektrischen Feldstärke eine Punktladung: $ abs(E) = 1/(4 pi dot Epsilon_0 dot epsilon_r) dot Q/(r^2) $
 Epsilon_0 = Naturkonstante\
 Epsilon_r = Materialabhaengige Konstante\
-Weil $1/(r^2)$ nimmt das Feld Starkabnimmt\
+Weil $1/(r^2)$ nimmt das Feld star abnimmt\
 Kraft welche dur das Feld ausgführt wird: 
 $ F = E_1 dot Q_2 $
 
+
+$ arrow(F_L) perp arrow(v) $
 // #align(center)[
 // $f(x) = f(a)-f'(a)(x -a) + (f''(a))/(2 !) (x - a)^2 + (f'''(a))/(3 !) (x - a)^3 + .... + (f^((n)) * (a))/(n !) ( x - a )^n$
 //
@@ -78,9 +80,8 @@ Sigma(B dot Delta s) = mu_0 dot I
 Ampersches Durchflutungsgesetzt:
 \
 \
-Integralform: Integral(B dot ds) = mu_0 dot I
+$ integral arrow(B) dot arrow(d) s = mu_0 I $
 \
-#pagebreak()
 Spule mit Integrationsweg: \
 \
 
@@ -139,24 +140,24 @@ Die Lorenzkraft ist die Kraft, die ein Magnetfeld auf bewegte elektrische Ladung
 \
 Auf ein positiv geladenes Teilchen mit Ladung q, das sich mit Geschwindigkeit v bewegt, wirkt die Lorentzkraft F_l.
 \
-Vektorform: $ F_l = Q dot v x B $
+Vektorform: $ F_l = Q dot v space crossmark space B $
 Das Kreuzprodukt erzwingt: $F_l$ steht senkrecht auf v und auf B.
 
 Die Skalarform: $F_l = abs(Q)$ $dot v dot B dot sin(alpha)$
 Sie enthaelt nur den Winkel $alpha$ zwischen $v$ und $B$.
 
-Die Skalarform laesst sich aus der Vektorform ableiten: $ |v x B| = v dot B dot sin(alpha) $
+Die Skalarform laesst sich aus der Vektorform ableiten: $ |arrow(v) crossmark arrow(B)| = v dot B dot sin(alpha) $
 \
 Gibt ein paar Sonderfaelle: bei $ alpha = 0 deg $ oder $ 180 deg $ ist $ F_l = 0 $, bei $ alpha = 90 deg $ ist $ F_l = |q| dot v dot B $ (maximal).
 
 \
-Kraft auf einen stromfuehrenden Leiter: $ F_l = I dot s dot B dot sin(alpha) $
-I: Stromstaerke\
-B: Magnetfeldstaerke\
+Kraft auf einen stromführenden Leiter: $ F_l = I dot s dot B dot sin(alpha) $
+$I$: Stromstaerke\
+$B$: Magnetfeldstaerke\
+$s$: Strecke \
 alpha: Winkel zwischen Magnetfeld und dem Leiter\
-
-
-
+\
+Für Induktion bei Windungen: $ abs(arrow(F_L)) = N dot I dot s dot B dot sin(alpha) $\
 Beispiel Aufgabe: \
 Berechne F_l auf ein Alpha-Teilchen, das sich in einem homogenen Magnetfeld von 0.05 T mit v = 450 m/s bewegt.
 \
