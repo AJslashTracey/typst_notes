@@ -88,3 +88,14 @@ _Wichtige Formeln_
 Teilchen im Kasten-Model: $ E_n = (h^2)/(8 m l^2) n^2 $\
 Grundzustandsenergie: $ E_1 = (h^2)/(8 m l^2) $
 Alle Energien sind Vielfache der Grundenergie: $ E_n = E_1 dot n^2 $ 
+
+
+Wenn ein Wasserstoffatom Energie abgibt, wie lässt sich anhand der diskreten Emissionslinien im Lichtspektrum auf die quantisierte Energie schliessen?\
+Die Emissionslinien haben Wellenlängen ($lambda$) oder Frequenzen $f=c/lambda$ 
+\Mit Energieerhaltung: $ E_("vor") = E_("ElektronenZustand2") = E_("ElektronZustand1") + h dot f = E("Nachher") $
+
+
+#pagebreak()
+
+Jeder $lambda$-Wert enspricht einer bestimmten Energie. $E_("Photon") = E_2 - E_1$ 
+$lambda$ zu Energie: $ lambda = (E_("Photon"))/(h dot c) $
