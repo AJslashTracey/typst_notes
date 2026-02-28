@@ -99,3 +99,49 @@ Die Emissionslinien haben Wellenlängen ($lambda$) oder Frequenzen $f=c/lambda$
 
 Jeder $lambda$-Wert enspricht einer bestimmten Energie. $E_("Photon") = E_2 - E_1$ 
 $lambda$ zu Energie: $ lambda = (E_("Photon"))/(h dot c) $
+
+
+
+
+\
+\
+\
+#title[Elektronen als Teilchen und Welle]
+\Spezifische Masse: $ (abs(Q))/m = (2 dot U)/(r^2 dot B^2) $
+\Klassische, Maxwell, EM-Welle: \ Impuls:  $ P_("Photon")=(h dot f)/c = h/lambda $ \ $ E_("Photon")= h dot f $
+
+$ "Impuls"= "Geschwindigkeit" dot "Masse" = ("Planksche Konstante")/("Wellenlänge") $
+\
+Jetzt kann man Kinetische Energie $E$ durch den Impuls ausdrücken: $ E_("kin") = (m dot v^2)/(2) = (p^2)/(2 dot m) $
+\
+ Jetzt kann mann noch $E_("kin")$ mit lambda aus drücken: $ E_("kin") space = space  (h^2)/(2 m lambda^2) $
+
+
+ \ 
+ Energie Erhaltung $E_1 = E_2$
+ $ U dot abs(Q) approx (m_e v^2)/2 = (p^2)/(2 m_e) $
+ \
+ umgestellt: $ lambda = h/(sqrt(m_e dot U dot e)) $ \
+ $m_e$ und $e$ können sich ändern wenn wir ein anderes Teilchen anschauen. 
+ #pagebreak()
+ Röntgenbeugung: $ n dot lambda = 2 dot d dot sin(theta) $
+ $n$ Gibt hier die Beugungsordnung an.
+
+Konstruktive interferenz.
+
+
+
+#title[Licht als Welle und Teilchen]
+_interferenz_  konstruktive $arrow$ Verstärkung, destruktive $arrow$ Auslöschung \
+_Beugung_ Ablenkung einer Well an einem Hindernis \
+
+Mathematische Beschreibung einer Ebenen, Harmonischen EM_welle:
+$ arrow(E) = vec(0, E_y (x,t), 0) $
+Die Welle breitet sich in X-Richtung aus\
+Die Grösse ist abhängig von $x$ und Zeit $t$ 
+$ arrow(B) = vec(0,0,B_z = (x,t)) $
+Zeigt nur in $z$-X-Richtung und immer: $arrow(E) perp arrow(B)$
+
+
+
+
