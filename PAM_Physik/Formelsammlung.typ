@@ -33,7 +33,7 @@ $ arrow(F_L) perp arrow(v) $
 // $gamma$
 // $phi$
 // $lambda$
-// $psi$
+// $psi $$
 // $Psi$
 //
 //
@@ -52,11 +52,11 @@ V: Volt
 
 B-Feld einens unendlichen langem, geraden, stromduchflossenen Leiter
 #align(center)[
-  Magnetische Feldstaerke: |B| = mu_0 / (2 dot pi dot r)
+  Magnetische Feldstaerke: $ |B| = mu_0 / (2 dot pi dot r) $
 ]
 Umstellen der Formel nach I:
 #align(center)[
-I = (B dot 2 dot pi dot r) / mu_0
+$ I = (B dot 2 dot pi dot r) / mu_0 $
 ]
 
 
@@ -65,7 +65,7 @@ I = (B dot 2 dot pi dot r) / mu_0
 \
 Magnetfeld eines gerade Leiters, der einen Strom führt:
 #align(center)[
-B(r) = mu_0 / (2 dot pi dot r)
+$ B(r) = mu_0 / (2 dot pi dot r) $
 \
 \
 \

@@ -142,6 +142,5 @@ Die Grösse ist abhängig von $x$ und Zeit $t$
 $ arrow(B) = vec(0,0,B_z = (x,t)) $
 Zeigt nur in $z$-X-Richtung und immer: $arrow(E) perp arrow(B)$
 
-
-
-
+#title[Induktion]
+$ U_("ind") = -N dot -(Delta "Fluss")/(Delta t) $
