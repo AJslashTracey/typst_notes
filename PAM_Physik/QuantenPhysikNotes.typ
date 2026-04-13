@@ -60,3 +60,52 @@ $ abs(psi)^2 = psi dot overline(psi) = a^2 + b^2 $
 Eulersche Formel 
 $ e^(i dot x) = cos(x) + i dot sin(x) $
 
+Übungsaufgaben 
+
+1. geben $psi = 0.3 + 0.4i$:   \ ($psi = r dot e^(i dot phi)$)
+
+- Bestimmen sie: $overline(psi)$
+
+$ overline(psi)= 0.4 -0.4 i $
+
+- Berechne $abs(psi)^2$ sowie $r "und" phi$
+
+$ abs(psi)^2 = sqrt(0.3 + 0.4) = 0.5^2 = 0.25 \ arrow tan^(-1)(0.4/0.3) = 0.97 "rad"  $
+
+
+2. Bestimmen sie Wahrscheinlichkeit and diesem Ort:  $psi = 0.2 - 0.4i$
+
+$ P = abs(psi)^2 = (0.2-0.4i) dot (0.2+0.4i) = 0.2 $ 
+
+
+
+3. ALphateilchen hat die Wahrscheinlichkeitamplitude $psi = 0.8 dot e^(i dot 4)$ aus einem Atomkern auzutreten. Berechne $P$: 
+
+$ abs(0.8 dot e^(i dot 4))^2 = 0.8^2 = 0.64 $
+
+#pagebreak()
+
+4. Wahrscheinlichkeitamplitude welche $0.25$ ergeben: 
+
+$ P = abs(psi)^2 = 1/4 $
+$ abs(psi) = sqrt(0.25) $
+$ psi = 0.5 dot e^(i phi) $   
+
+
+5. Geben ist die Wellenfuktion für den Grundzustand eines Teilchen im Potentialtop:  
+$ psi_1 (x,t) = sqrt(2/l) dot e^(-(i dot E_1)/(planck)) dot sin((1 dot pi)/(l) dot x) $
+Welche Amplitude ergibt sich fr einen festen Wert des Orts $x=l/2$
+
+$ psi_1(l/2, t) =  sqrt(2/l) dot e^(-(i dot E_1)/(planck)) dot sin((1 dot pi)/(l) dot l/2)  $
+
+$ sin(pi/l dot l/2 = pi/2) = sin(pi/2) = 1 $
+$ sqrt(2/l) dot e^(-(i dot E_1)/(planck)) dot 1 $
+
+
+
+
+
+
+
+
+
