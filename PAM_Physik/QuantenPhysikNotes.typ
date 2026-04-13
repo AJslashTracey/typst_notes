@@ -122,8 +122,6 @@ Beide Spalten offen:
 $ psi_1 + psi_2 = (2+i)/sqrt(L) + (-2-i)/(sqrt(L)) = 0 $
 #pagebreak()
 #title[Interpretation]
-
-
 - Jeder spalt für sich $P= 5/L$
 - Beide zusammen $P = 0$
 
@@ -133,3 +131,34 @@ Weil: $ psi_2 = -psi_1 $
 
 $ P eq.not P_1 + P_2 $
 $ P = abs(psi_1 + psi_2)^2 $
+
+
+
+Übungsaufgaben:
+
+1. Wir nehmen an auf der Box ist an einem bestimmten Cooper-Paar mit $psi_0 = 0.5 + 0.75i $
+
+$ abs(psi)^2 = a^2 + b^2 $
+$ abs(psi)^2 = a^2 + b^2 $
+$ abs(psi)^2 = 0.5^2 + 0.75^2 = 0.25 + 0.5625 = 0.81 $
+$ P("kein") = 1 - abs(psi)^2 = 0.18 $
+
+2. 
+
+Buckyball C-60 wird durch eine Dreifachspalt geschickt und mit einem Detektor im Schirmbereich gemessen. Falls nur ein Spalt offen ist, werden die folgenden W'Wahrscheinlichkeitsamplitude an einem bestimten Zeitpunkt gemessen.
+
+$ psi_("Spalt" 1)=0.2-0.75i space space space  psi_("Spalt" 2)=0.5i space space  psi_("Spalt" 3)= -0.3 $
+
+Dreispalten: 
+
+$ P = abs(psi_1 + psi_2 + psi_3)^2 \ abs(-0.1-0.25i)^2 \ 0.26925824035673^2 \ 0.725 $
+
+
+Zweispalten:
+
+$ abs(psi_1 + psi_2)^2 \ abs(0.2-0.75i + 0.5i)^2 \ abs(0.2-0.25)^2 \ 0.32015621187164^2 \ 0.1025 $
+
+
+
+
+
