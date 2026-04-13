@@ -88,7 +88,7 @@ $ abs(0.8 dot e^(i dot 4))^2 = 0.8^2 = 0.64 $
 4. Wahrscheinlichkeitamplitude welche $0.25$ ergeben: 
 
 $ P = abs(psi)^2 = 1/4 $
-$ abs(psi) = sqrt(0.25) $
+$ abs(psi) = sqrt(0.5) $
 $ psi = 0.5 dot e^(i phi) $   
 
 
@@ -158,7 +158,9 @@ Zweispalten:
 
 $ abs(psi_1 + psi_2)^2 \ abs(0.2-0.75i + 0.5i)^2 \ abs(0.2-0.25)^2 \ 0.32015621187164^2 \ 0.1025 $
 
+#pagebreak()
 
+#title[Wahrscheinlichkeit beim Potentialtopf]
 
 
 
