@@ -101,11 +101,35 @@ $ psi_1(l/2, t) =  sqrt(2/l) dot e^(-(i dot E_1)/(planck)) dot sin((1 dot pi)/(l
 $ sin(pi/l dot l/2 = pi/2) = sin(pi/2) = 1 $
 $ sqrt(2/l) dot e^(-(i dot E_1)/(planck)) dot 1 $
 
+#title[Interferenz von Wahrscheinlichkeitamplitude]
+
+
+Interferenz beim Doppelspalt:
+
+Geben am ort $x_0$ 
+$ psi_1(x_0) = (2 + i)/(sqrt(L)), psi_2(x_0) = (-2-i)/(sqrt(L)) $
+
+
+Wenn jetzt nur die 1. Spalte offen ist: 
+$ P 1(x_0) = abs(psi_1)^2 = (abs(2+i))/L = (2^2 + 1^2)/L = 5/L $
+
+Nur 2. Spalte offen: 
+$ P 2(x_0) = abs(psi_2)^2 = (abs(-2-i)^2)/L = (-2^2-1^2)/L = (5)/L $ 
+
+
+Beide Spalten offen: 
+
+$ psi_1 + psi_2 = (2+i)/sqrt(L) + (-2-i)/(sqrt(L)) = 0 $
+#pagebreak()
+#title[Interpretation]
+
+
+- Jeder spalt für sich $P= 5/L$
+- Beide zusammen $P = 0$
+
+Weil: $ psi_2 = -psi_1 $
 
 
 
-
-
-
-
-
+$ P eq.not P_1 + P_2 $
+$ P = abs(psi_1 + psi_2)^2 $
