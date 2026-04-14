@@ -162,7 +162,6 @@ $ abs(psi_1 + psi_2)^2 \ abs(0.2-0.75i + 0.5i)^2 \ abs(0.2-0.25)^2 \ 0.320156211
 
 #pagebreak()
 
-#title[Wahrscheinlichkeit beim Potentialtopf]
 
 
 
