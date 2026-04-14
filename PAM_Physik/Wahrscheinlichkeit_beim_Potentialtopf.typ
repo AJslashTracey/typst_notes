@@ -1,5 +1,4 @@
 #import "@preview/diverential:0.3.0": *
-
 #title[Wahrscheinlichkeit im Potentialtopf]
 
 
@@ -34,4 +33,6 @@ $ psi_1(x,t) = sqrt(2/l) dot e^(-(i dot E_1)/planck dot t) dot sin((n dot pi)/l 
   $$underbrace(e^(-(i dot E_1) planck dot t), "Winkel" phi = -(E_1)/planck dot t)$
 ]
 
+Diese Wellenfunktion kann jetzt benutz werden um Wahrscheinlichkeit des Aufenthalts zwischen zwei Verschiedenen $x$ bestimmen zu können.
 
+$ P("Elektron in" x_1,x_2) = integral_(x_1)^(x_2)abs(psi_n(x,t)^2 d x=integral_(x_1)^(x_2)abs(Psi_n (x)^2))^2 $
