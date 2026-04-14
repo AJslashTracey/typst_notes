@@ -1,4 +1,6 @@
 #import "@preview/diverential:0.3.0": *
+#import "@preview/fancy-units:0.1.1": unit
+
 #title[Wahrscheinlichkeit im Potentialtopf]
 
 
@@ -36,3 +38,9 @@ $ psi_1(x,t) = sqrt(2/l) dot e^(-(i dot E_1)/planck dot t) dot sin((n dot pi)/l 
 Diese Wellenfunktion kann jetzt benutz werden um Wahrscheinlichkeit des Aufenthalts zwischen zwei Verschiedenen $x$ bestimmen zu können.
 
 $ P("Elektron in" x_1,x_2) = integral_(x_1)^(x_2)abs(psi_n(x,t)^2 d x=integral_(x_1)^(x_2)abs(Psi_n (x)^2))^2 $
+
+
+
+
+
+Beispiel Rechnung: Wahrscheinlichkeit in einem Potentialtopf der Breite $l = 10^-10 #unit[m]$, dass sich das Elektron im Zustand $n = 2$ befindet in der linken Hälfte des potentialtopfes befindet, falls es zum Zeitpunkt $t=0$ im Zustand $psi_2(x) = sqrt(2/l) dot sin((2 dot pi)/l dot x)$ war. Berechnen sie die Wahrscheinlichkeit für den Zeitpunkt $t=0$ und $t=13.56 #unit[s]$
