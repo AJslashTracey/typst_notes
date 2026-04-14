@@ -43,10 +43,7 @@ $ P("Elektron in" x_1,x_2) = integral_(x_1)^(x_2)abs(psi_n(x,t)^2 d x=integral_(
 
 
 
-Beispiel Rechnung: Wahrscheinlichkeit in einem Potentialtopf der Breite $l = 10^(-10)#unit[m]$, dass sich das Elektron im Zustand $n = 2$ befindet in der linken Hälfte des potentialtopfes befindet, falls es zum Zeitpunkt $t=0$ im Zustand: $ psi_2(x) = sqrt(2/l) dot sin((2 dot pi)/l dot x) $ war. Berechnen sie die Wahrscheinlichkeit für den Zeitpunkt $t=0$ und $t=13.56#unit[s].$
-
-$ P(x_1, x_2) = integral_(x_1)^(x_2) abs(psi(x, t))^2 d x $
-$ x_1 = 0, x_2 = l/2 $
+Beispiel Rechnung: Wahrscheinlichkeit in einem Potentialtopf der Breite $l = 10^(-10)#unit[m]$, dass sich das Elektron im Zustand $n = 2$ befindet in der linken Hälfte des potentialtopfes befindet, falls es zum Zeitpunkt $t=0$ im Zustand $psi_2(x) = sqrt(2/l) dot sin((2 dot pi)/l dot x)$ war. Berechnen sie die Wahrscheinlichkeit für den Zeitpunkt $t=0$ und $t=13.56#unit[s].$
 
 
 
