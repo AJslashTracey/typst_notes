@@ -28,7 +28,7 @@ Mit Komplexen Zahlen kann man zwei reale Gleichungen kompakter aufschreiben
 
 _Wahrscheinlichkeitsamplitude_ "PSI"  $psi$
 
-Gibt die Wahrscheinlichkeiten an, dass Elektron an einem Ort anzutreffen. Das heisst je grösser die Amplitude $psi(x, t)$ der Welle an einem ort $x$ zu einer Zeit $t$, desto grösser ist die Wahrscheinlichkeiten das Elektron an diesem Ort $x$ anzutreffen.
+Gibt die Wahrscheinlichkeiten an, das Elektron an einem Ort anzutreffen. Das heisst je grösser die Amplitude $psi(x, t)$ der Welle an einem ort $x$ zu einer Zeit $t$, desto grösser ist die Wahrscheinlichkeiten das Elektron an diesem Ort $x$ anzutreffen.
 
 
 // Wellenfunktion: $ y(x,t) = dot(y) dot sin(omega t - k x + )
@@ -43,7 +43,7 @@ $ P = abs(psi_("unterer Spalt") + psi_("oberer Spalt"))^2 $
 
   Quantenphysik: $psi = abs(psi_1 + psi_2)^2$
 
-
+  $P = abs(psi)^2$
 
   $arrow$ Wahrscheinlichkeiten entstehen aus Überlagerung von Wellen     .
 
@@ -77,13 +77,12 @@ $ abs(psi)^2 = sqrt(0.3 + 0.4) = 0.5^2 = 0.25 \ arrow tan^(-1)(0.4/0.3) = 0.97 "
 
 $ P = abs(psi)^2 = (0.2-0.4i) dot (0.2+0.4i) = 0.2 $
 
+#pagebreak()
 
-
-3. ALphateilchen hat die Wahrscheinlichkeitamplitude $psi = 0.8 dot e^(i dot 4)$ aus einem Atomkern auzutreten. Berechne $P$:
-
+3. Alphateilchen hat die Wahrscheinlichkeitamplitude $psi = 0.8 dot e^(i dot 4)$ aus einem Atomkern auzutreten. Berechne $P$:
+$ P = abs(psi)^2 $
 $ abs(0.8 dot e^(i dot 4))^2 = 0.8^2 = 0.64 $
 
-#pagebreak()
 
 4. Wahrscheinlichkeitamplitude welche $0.25$ ergeben:
 
