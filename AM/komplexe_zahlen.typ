@@ -4,7 +4,8 @@
 \
 \
 #align(center)[f(Kreis durch $"Pol"_(f(z)))=K'$ \ $K'$ = Gerade]
-
+#align(center)[f(Gerade nicht durch $"Pol"_(f(z))$ \ $g'$ = Kreis ]
+$ "Pol" arrow f(z) = "undef" \ "Nenner = 0" $
 
 Parameterfreie Form
 
@@ -18,3 +19,10 @@ Kreis Parameterfrei:
 $ a z overline(z) + overline(b) z + b overline(z) + c = 0 $
 $ sqrt(abs(b)^2 - c) = r $
 $ m = -b $
+
+
+Abbildung:
+$ w = s + i(z-s) $
+$z$: Abzubildener Punkt \
+$s$: Zentrum der Abbildung
+
