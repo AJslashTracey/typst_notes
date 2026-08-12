@@ -37,6 +37,8 @@ $ E_0 = c dot B_0 space space B_0 = (E_0)/(C) $
 
 EM-Mikrowellen am Gitter
 
+
+
 #align(center)[$E parallel "Draht" arrow$ Destruktive Interference]
 
 #align(center)[$E perp "Draht" arrow$ Keine Interference]
